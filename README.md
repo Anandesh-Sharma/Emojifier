@@ -20,3 +20,5 @@
 3.  Run process_dataset.py. It harvests dataset and puts neutral and emotions images into /data/sorted_set/, it also normalizes them
 4.  Run prepare_model.py to teach a model using /data/sorted_set/ files. You can specify list emotions you want to use. It saves a teached model to /models/emotion_detection_model.xml
 5.  Run main_module.py. It opens a webcam stream, detect emotions on faces (using /models/emotion_detection_model.xml) and changes them to specified emojis (/graphics/)
+
+Here is the link to my research paper [link](https://github.com/Anandesh-Sharma/College/blob/master/Emojifier__Facial_Emotion_Recognition-2019-05-10-09-17.pdf)
