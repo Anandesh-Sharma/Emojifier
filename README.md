@@ -1,4 +1,4 @@
-# Emojifier - Emotion Recognition in Real-Time
+# Emojifier - Emotion Recognition in Real-Time (no longer maintained)
 
 ***Project Structure***
 
